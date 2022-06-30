@@ -1,6 +1,6 @@
 {
   "namespace": "https://github.com/jonrhall",
-  "match": "http://bloodrizer.ru/games/kittens/",
+  "match": "http://kittensgame.com/web",
   "grant": [
     "GM_addStyle"
   ],
