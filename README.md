@@ -1,6 +1,6 @@
-# ktns
+# ktns (BUT FOR THE NEW WEBSITE)
 
-A real-time [Kittens Game](http://bloodrizer.ru/games/kittens/#) resource visualization engine.
+A real-time [Kittens Game](http://bloodrizer.ru/games/kittens/#) resource visualization engine (THAT I TOTALLY DID NOT STEAL FROM @JONRHALL).
 
 ## Features
 
