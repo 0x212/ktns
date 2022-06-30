@@ -3,7 +3,7 @@
 // @version     1.0.0
 // @author      jonrhall
 // @description A kittens visualization engine
-// @match       http://bloodrizer.ru/games/kittens/
+// @match       http://kittensgame.com/web/
 // @namespace   https://github.com/jonrhall
 // @grant       GM_addStyle
 // @require     https://d3js.org/d3.v3.min.js
